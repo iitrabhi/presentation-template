@@ -1,0 +1,726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inp",
+				"\\input{file}                                      "
+			],
+			[
+				"cap",
+				"\\caption{title}                                   \tlatex-document"
+			],
+			[
+				"sub",
+				"\\subsubsection{title}                             \tlatex-document"
+			],
+			[
+				"o",
+				"objective\tstatement"
+			],
+			[
+				"obj",
+				"obj_sum\tstatement"
+			],
+			[
+				"se",
+				"sensitivity\tstatement"
+			],
+			[
+				"SENSITIVITY",
+				"sensitivity\tstatement"
+			],
+			[
+				"subsec",
+				"\\subsection[short]{title}                         \tlatex-document"
+			],
+			[
+				"in",
+				"\\input{file}                                      \tlatex-document"
+			],
+			[
+				"subsu",
+				"\\subsubsection*{title}                            \tlatex-document"
+			],
+			[
+				"incl",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"pac",
+				"packages\tstatement"
+			],
+			[
+				"fil",
+				"filtered_files"
+			],
+			[
+				"extension",
+				"extensions_to_delete\tstatement"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"dis",
+				"distance_sum\tstatement"
+			],
+			[
+				"num",
+				"num_cells"
+			],
+			[
+				"den",
+				"density_old"
+			],
+			[
+				"min",
+				"min_delta_u"
+			],
+			[
+				"max",
+				"max_am_iterations\tstatement"
+			],
+			[
+				"err",
+				"err_max\tstatement"
+			],
+			[
+				"phi",
+				"phi_previous_step\tstatement"
+			],
+			[
+				"del",
+				"delta_u\tstatement"
+			],
+			[
+				"su",
+				"sub_step_sign_new\tstatement"
+			],
+			[
+				"filen",
+				"filename"
+			],
+			[
+				"si_",
+				"si_minus\tstatement"
+			],
+			[
+				"a",
+				"achieved_adaptive_convergence\tstatement"
+			],
+			[
+				"pea",
+				"peak_force_old\tstatement"
+			],
+			[
+				"peak_force",
+				"peak_force_old\tstatement"
+			],
+			[
+				"peak",
+				"peak_force\tparam"
+			],
+			[
+				"fo",
+				"force\tstatement"
+			],
+			[
+				"rea",
+				"reaction_force_list\tstatement"
+			],
+			[
+				"disp",
+				"disp_current\tparam"
+			],
+			[
+				"max_",
+				"max_back_steps\tstatement"
+			],
+			[
+				"u_",
+				"u_new\tparam"
+			],
+			[
+				"u",
+				"u_list\tstatement"
+			],
+			[
+				"ste",
+				"step_size_controller\tfunction"
+			],
+			[
+				"Tr",
+				"True\tkeyword"
+			],
+			[
+				"prin",
+				"print_time\tfunction"
+			],
+			[
+				"error",
+				"error_max\tparam"
+			],
+			[
+				"bc",
+				"bc_top_x\tstatement"
+			],
+			[
+				"lo",
+				"load_face\tstatement"
+			],
+			[
+				"app",
+				"applied_disp\tstatement"
+			],
+			[
+				"err_",
+				"err_u_old\tstatement"
+			],
+			[
+				"wri",
+				"write_output\tstatement"
+			],
+			[
+				"ev",
+				"eval_psi\tfunction"
+			],
+			[
+				"ph",
+				"phi_new\tstatement"
+			],
+			[
+				"is",
+				"is_first\tstatement"
+			],
+			[
+				"bc_",
+				"bc_sp_x\tstatement"
+			],
+			[
+				"pro",
+				"problem_disp\tstatement"
+			],
+			[
+				"elas",
+				"elastic_energy\tstatement"
+			],
+			[
+				"str",
+				"string\tparam"
+			],
+			[
+				"name",
+				"study_name"
+			],
+			[
+				"s",
+				"studyname"
+			],
+			[
+				"mes",
+				"mesh_size_array\tstatement"
+			],
+			[
+				"form",
+				"formulation\tfunction"
+			],
+			[
+				"Pro",
+				"Problem"
+			],
+			[
+				"mode",
+				"model_name"
+			],
+			[
+				"h_",
+				"h_min"
+			],
+			[
+				"ce",
+				"cell_data"
+			],
+			[
+				"mv",
+				"mvc_boundaries"
+			],
+			[
+				"mvc",
+				"mvc_subdomain"
+			],
+			[
+				"b",
+				"mvc_boundaries"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 268.0,
+		"history":
+		[
+			"url",
+			"url = [sublime.load_resource(file) for file in sublime.find_resources('package-metadata.json')]",
+			"url = [sublime.decode_value(sublime.load_resource(file))['url'] for file in sublime.find_resources('package-metadata.json')]",
+			"packages",
+			"packages = [os.path.dirname(file)[len('Packages/'):] for file in sublime.find_resources('package-metadata.json')]",
+			"packages",
+			"packa",
+			"packages.append(os.path.dirname(file)[len('Packages/'):] for file in sublime.find_resources('package-metadata.json'))",
+			"packages = []",
+			"import os; ",
+			"a = [(os.path.dirname(file)[len('Packages/'):], sublime.decode_value(sublime.load_resource(file))['url']) for file in sublime.find_resources('package-metadata.json')]",
+			"a",
+			"a = [(os.path.dirname(file)[len('Packages/'):], sublime.decode_value(sublime.load_resource(file))['url']) for file in sublime.find_resources('package-metadata.json')]",
+			"(os.path.dirname(file)[len('Packages/'):], sublime.decode_value(sublime.load_resource(file))['url'])",
+			"os.path.dirname(file)",
+			"file",
+			"fil",
+			"file = sublime.find_resources('package-metadata.json')[0]",
+			"import os",
+			"clean",
+			"clc",
+			"[sublime.decode_value(sublime.load_resource(file))['url'] for file in sublime.find_resources('package-metadata.json')]",
+			"[sublime.decode_value(sublime.load_resource(file))['url']) for file in sublime.find_resources('package-metadata.json')]",
+			"sublime.find_resources('package-metadata.json')",
+			"[(os.path.dirname(file)[len('Packages/'):], sublime.decode_value(sublime.load_resource(file))['url']) for file in sublime.find_resources('package-metadata.json')]",
+			"import os; ",
+			"view.run_command('latex_beautify')",
+			"view.run_command('latexbeautify')",
+			"view.run_command('sulatex')",
+			"view.runCommand('SuLatex')",
+			"view.run_command('SuLatex')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/abhi/Codes/papers/presentation-template"
+	],
+	"file_history":
+	[
+		"/Users/abhi/Codes/papers/presentation-template/presentation.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/front_matter/presentation_details.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/examples/lists.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/examples/figures.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/presentation.sublime-project",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/front_matter/preamble.tex",
+		"/Users/abhi/Codes/synopsis-presentation/synopsis-presentation.sublime-project",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/slides/6_results.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/slides/7_conclusion.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/slides/5_loop_vector.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/presentation.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/slides/4_the_problem.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/slides/2_overview.tex",
+		"/Users/abhi/Dropbox/Timeline/8. Papers/0. Template/presentation-template/slides/13_thanks.tex",
+		"/Users/ced/Dropbox/Timeline/7. Conferences/5. FENICS 21/1. latex/slides/3_topology.tex",
+		"/Users/ced/Dropbox/Timeline/7. Conferences/5. FENICS 21/1. latex/slides/1_intro.tex",
+		"/Users/ced/Dropbox/Timeline/7. Conferences/5. FENICS 21/1. latex/presentation.sublime-project",
+		"/Users/ced/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/topology-fenics.sublime-project",
+		"/Users/ced/Downloads/meta.geo",
+		"/Users/ced/Codes/topology/scripts/vectorization/3D/topopt.py",
+		"/Users/ced/Codes/topology/topology.sublime-project",
+		"/Users/ced/Downloads/tutorial/t20.geo",
+		"/Users/ced/Downloads/untitled.stl",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/2.0.formulation/2.4.sensitivity.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/6.0.results/6.0.results.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/2.0.formulation/2.3.robust.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/0.0.front_matter/packages.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/6.0.results/6.1.rto_vs_dto.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/2.0.formulation/2.1.homogenization.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/6.0.results/6.3.size_and_volume.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/2.0.formulation/2.2.deterministic.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/0.0.front_matter/0.1.abstract.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/7.0.conclusion/5.0.conclusion.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/6.0.results/6.2.weight_study.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/paper.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/0.0.front_matter/0.0.front_matter.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/2.0.formulation/2.0.formulation.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/sections/2.0.formulation/2.0.unit_cell.tex",
+		"/Users/ced/Dropbox/Collaborators/Gourav/meta-uncertainty/1. paper/paper.sublime-project",
+		"/Users/ced/Downloads/app-ads.txt",
+		"/Users/ced/Downloads/cantilever.py",
+		"/Users/ced/Codes/topology/scripts/vectorization/base/topopt.py",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/5.0.model_extensions/5.1.extension_3d.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/4.0.fenics_implementation/4.0.fenics.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.2.simp_method.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.5.filter.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.4.optimization_problem.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/4.0.fenics_implementation/4.4.optimization.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.0.formulation.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/1.0.introduction/1.0.introduction.tex",
+		"/D/Codes/playground/mesh/plate.msh",
+		"/D/Codes/playground/L_domain_top_load/mesh/L_domain.msh",
+		"/D/Codes/playground/L_domain_top_load/cf.xdmf",
+		"/D/Codes/playground/L_domain_top_load/main.py",
+		"/D/Codes/playground/main.py",
+		"/D/Codes/playground/L_domain_top_load/mesh/plate.xdmf",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.4.variational_form.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/3.0.numerical_approximation/3.1.spacial_discretization.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/3.0.numerical_approximation/3.3.numerical_implementation.tex",
+		"/C/Users/iitra/.ssh/id_ed25519",
+		"/C/Users/iitra/.ssh/id_ed25519.pub",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.1.elastic_energy.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.5.simp_approach.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.2.work_potential.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.3.potential_energy.tex",
+		"/D/Abhinav/paper/paper/sections/2.0.formulation/2.1.elastic_energy.tex",
+		"/C/Users/iitra/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/topology-fenics.sublime-project",
+		"/C/Users/Abhinav/Dropbox/Shared/Students/Meenu/Adaptive Meshing/Papers/sections/1.0.introduction/1.0.introduction.tex",
+		"/D/Codes/topology/references/base-2d/main.py",
+		"/D/Codes/topology/references/base-2d/2D_elasticity.py",
+		"/C/Users/ced/Dropbox/Meenu/Adaptive Meshing/Papers/sections/1.0.introduction/1.0.introduction.tex",
+		"/D/Codes/topology/references/pyadjoint-master/docker/cyipopt-master/setup.py",
+		"/D/Codes/topology/scripts/vectorization/parallelization/vec-asympt.py",
+		"/D/Codes/space-time/reference/igafem/bezier-extraction/plate_with_hole.iga",
+		"/D/Codes/space-time/reference/igafem/bezier-extraction/arch_tsplines.iga",
+		"/D/Mac/Abhi/Dropbox/Codes/References/Nyugen/igafem-nguyen/bezier-extraction/square_unstructured.iga",
+		"/C/Users/Abhinav/Downloads/default/sphere.iga",
+		"/D/Codes/topology/scripts/vectorization/parallelization/main.py",
+		"/D/Codes/topology/references/pyadjoint-master/docker/fenics/stable/dolfin-adjoint.conf",
+		"/D/Codes/topology/references/pyadjoint-master/docker/fenics/stable/Dockerfile",
+		"/D/Codes/topology/references/pyadjoint-master/examples/stokes-topology/stokes-topology.py",
+		"/C/Users/Abhinav/Downloads/Export-33c9df2e-82b5-43cc-8109-631e1daf84b3/Fenics metamaterials fe3f68d7f5a04a51a11d3b5ab4d14a88.md",
+		"/C/Users/Abhinav/Dropbox/Codes/main.py",
+		"/D/Codes/topology/Docker/Dockerfile",
+		"/D/Codes/topology/Docker/.bashrc",
+		"/D/Codes/phase-field/Tushar/four-phase/penny/main.py",
+		"/D/Codes/topology/scripts/vectorization/parallelization/asymp.py",
+		"/D/Codes/topology/references/pyadjoint-master/docker/fenics/stable/Ipopt-3.12.9/ThirdParty/HSL/coinhsl/README",
+		"/D/Codes/topology/scripts/vectorization/parallelization/topopt.py",
+		"/D/Codes/phase-field/Tushar/one-phase/shear-senp/main.py",
+		"/D/Codes/phase-field/Tushar/three-phase/penny/main.py",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/6.0.practical_extensions/6.1.complex_configuration.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/6.0.practical_extensions/6.3.parallel_implementation.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/6.0.practical_extensions/6.2.large_3d_problems.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/6.0.practical_extensions/6.0.practical_extensions.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/9.0.references/topology.bib",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/5.0.model_extensions/5.5.alternative_optimizers.tex",
+		"/D/Codes/topology/references/88-line/top88.m",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/8.0.appendix/appendix-a.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/topology-fenics.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/7.0.conclusion/7.0.conclusion.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/5.0.model_extensions/5.1.extension_3d.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/5.0.model_extensions/5.2.other_boundary_conditions.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/5.0.model_extensions/5.4.passive_elements.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/0.0.front_matter/packages.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/6.0.conclusion/7.additional_information.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/0.0.front_matter/0.1.abstract.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/1. Adaptive Stepping/adaptive-stepping/sections/0.0.front_matter/packages.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/0.0.front_matter/0.0.front_matter.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/1. Adaptive Stepping/adaptive-stepping/sections/0.0.front_matter/0.0.front_matter.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/1. Adaptive Stepping/adaptive-stepping/sections/6.0.appendix/appendix-a.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/Reject/paper/sections/0.0.front_matter/0.0.front_matter.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/1. Adaptive Stepping/adaptive-stepping/adaptive-stepping.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/1. Adaptive Stepping/adaptive-stepping/sections/0.0.front_matter/0.1.abstract.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/5.0.model_extensions/5.0.extensions.tex",
+		"/C/Users/Abhinav/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/7.0.appendix/topopt.py",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/3.0.numerical_approximation/3.1.spacial_discretization.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.0.formulation.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/7.0.appendix/appendix-a.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/3.0.numerical_approximation/3.2.optimization_algorithm.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/3.0.numerical_approximation/3.3.numerical_implementation.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/5.0.model_extensions/5.4.passive_elements.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/5.0.model_extensions/5.1.extension_3d.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/4.0.fenics_implementation/4.4.optimization.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/4.0.fenics_implementation/4.3.fem.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/4.0.fenics_implementation/4.0.fenics.tex",
+		"/E/Abhi/PhD/Dropbox/Timeline/8. Papers/6. Topology FEniCS/paper/sections/2.0.formulation/2.1.elastic_energy.tex",
+		"/C/Users/iitrabhi/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 166.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=",
+			"enum"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 136.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 168.0
+	},
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 258.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "presentation.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

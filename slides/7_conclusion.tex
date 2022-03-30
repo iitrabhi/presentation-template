@@ -1,0 +1,16 @@
+\label{conclusion}
+\begin{frame}\frametitle{Conclusion}
+  \begin{enumerate} [(I)]
+	\item General guidelines for handling medium to large-scale systems in FEniCS
+	\begin{enumerate} [(i)]
+      \item Always profile the code and look for bottlenecks.
+      \item Avoid use of loops in python. Look for efficient alternatives.
+      \item Avoid re-evaluation of matrices that do not change.
+      \item Evaluate and write only necessary simulation outputs.
+      \item In an iterative process evaluate output at every $n^{th}$ step to further speed up the simulation.
+	  \item Properly select/configure the solver and preconditioner based on the problem.
+
+	\end{enumerate}
+	\item Stepping into the realm of large scale simulations require knowledge of good programming practices, parallelization, and a deep understanding of the working principles of the tools/libraries.
+  \end{enumerate}
+\end{frame}

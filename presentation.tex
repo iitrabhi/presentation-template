@@ -1,0 +1,42 @@
+\documentclass[10pt]{beamer}
+% This is done so that both 16/9 (160mm by 90mm)and
+% 4/3 (128mm by 96mm) have same height 16/9*96 = 170.667
+\geometry{paperwidth=170.667mm, paperheight=96mm}
+\input{front_matter/preamble}
+\input{front_matter/presentation_details}
+\begin{document}
+  %------------------------------------------------
+  % title page
+  %------------------------------------------------
+  \begin{frame}
+    \begin{center}
+      \vspace{0.1cm}
+      \includegraphics[height=2.4cm]{logo.pdf}
+    \end{center}
+    \titlepage
+  \end{frame}
+  %------------------------------------------------
+  % your slides:
+  %------------------------------------------------
+  \input{slides/1_intro}
+  %------------------------------------------------
+  % example slides:
+  %------------------------------------------------
+  \input{examples/lists}
+  \input{examples/columns}
+  \input{examples/figures}
+  \input{examples/description}
+  \input{examples/table}
+  \input{examples/blocks}
+  \input{examples/definition}
+  \input{examples/example}
+  \input{examples/theorem}
+  \input{examples/hyperlinks}
+  \input{examples/algorithms}
+  %------------------------------------------------
+  % End
+  %------------------------------------------------
+  \input{slides/7_conclusion}
+  \input{slides/13_thanks}
+  \input{slides/8_bib}
+\end{document}

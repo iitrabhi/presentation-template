@@ -1,0 +1,50 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.lof",
+				"*.lot",
+				"*.out",
+				"*.fmt",
+				"*.fot",
+				"*.cb",
+				"*.cb2",
+				"*.aux",
+				"*.fdb_latexmk",
+				"*.fls",
+				"*.toc",
+				"*.log",
+				"*.synctex.gz",
+				"*.synctex.gz(busy)",
+				"*.spl",
+				"*.out",
+				"*.brf",
+				"*.blg",
+				"*.brf",
+				"*.bbl",
+				"*.cls",
+				"*.clo",
+				"*.nav",
+				"*.snm"
+			],
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"TEXroot": "presentation.tex",
+		"ensure_newline_at_eof_on_save": true,
+		"spell_check": true,
+		"trim_trailing_white_space_on_save": true,
+		"word_wrap": true,
+		"wrap_width": 70,
+		"aux_directory": "build",
+		"output_directory": "build",
+		 // Additional spacing at the top of each line, in pixels
+	    "line_padding_top": 2,
+	    // Additional spacing at the bottom of each line, in pixels
+	    "line_padding_bottom": 2,
+	}
+}
