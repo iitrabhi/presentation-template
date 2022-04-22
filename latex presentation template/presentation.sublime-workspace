@@ -266,6 +266,48 @@
 				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "front_matter/preamble.tex",
+			"settings":
+			{
+				"buffer_size": 829,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAFABAAAAAAAAUgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwEAAAAAAABvAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "front_matter/presentation_details.tex",
+			"settings":
+			{
+				"buffer_size": 436,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AQAAADIAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		}
 	],
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
@@ -419,7 +461,8 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/abhi/Codes/papers/presentation-template"
+		"/Users/abhi/Codes/papers/presentation-template",
+		"/Users/abhi/Codes/papers/presentation-template/front_matter"
 	],
 	"file_history":
 	[
@@ -594,7 +637,6 @@
 				{
 					"buffer": 0,
 					"file": "README.md",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -613,6 +655,67 @@
 						{
 							"open_with_edit": true,
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "front_matter/preamble.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								683,
+								683
+							]
+						],
+						"settings":
+						{
+							"preview_math_template_preamble": "\\newcommand*{\\superscript}[1]{\\ensuremath{^{\\rm #1}}}\n\\newcommand*{\\subscript}[1]{\\ensuremath{_{\\rm #1}}}",
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "front_matter/presentation_details.tex",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"preview_math_template_preamble": "",
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
